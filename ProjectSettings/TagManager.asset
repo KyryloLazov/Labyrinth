@@ -9,10 +9,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - Gameplay Objects
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 

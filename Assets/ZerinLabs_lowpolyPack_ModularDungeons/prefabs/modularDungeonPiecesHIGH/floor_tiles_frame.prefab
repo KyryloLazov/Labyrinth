@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 33231148056052146}
   - component: {fileID: 9019875741219896196}
   - component: {fileID: 3319575523534358397}
-  - component: {fileID: 2727693665151831864}
   m_Layer: 0
   m_Name: floor_tiles_frame
   m_TagString: Ground
@@ -85,24 +84,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2727693665151831864
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3903871377098863521}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 4.109939, y: 0.15673184, z: 4.081611}
-  m_Center: {x: 0, y: 0.031173825, z: 0}

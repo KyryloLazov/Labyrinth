@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface ITriggerable
+public interface ITriggerable // Interface for triggerable traps
 {
-    public void TriggerTrap();
+    public void TriggerTrap(); // Example method to trigger all traps
 }
